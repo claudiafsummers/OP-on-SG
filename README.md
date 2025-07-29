@@ -23,5 +23,5 @@ file can be used to plot the polynomials on SG.
 
 ## Acknowledgments
 
-* http://pi.math.cornell.edu/~ektuley](https://pi.math.cornell.edu/~ektuley/matlab2c.html)
+* https://pi.math.cornell.edu/~ektuley/matlab2c.html
 * https://github.com/s769/op_on_sg/tree/master
