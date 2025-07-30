@@ -8,7 +8,8 @@ def address(k,m):
     k - the index whose address to find
     m - level of SG (meaning we have 3^(m+1) points) 
 
-    OUTPUT: vector of length m+1, listing off a sequence of 0's, 1's,and 2's, which locate the given index.
+    OUTPUT: 
+    v - vector of length m+1, listing off a sequence of 0's, 1's,and 2's, which locate the given index.
 
     e.g.
     k = 4, m = 1 returns [2 1] (second cell of m=1, first position)
